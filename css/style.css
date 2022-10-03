@@ -14,3 +14,11 @@ h1{
 body,html{
   height:100%;
 }
+.pic2{
+  background-image: url(../img/daniel-tran-JqDDDg9x0h4-unsplash.jpg);
+}
+.pic3{
+  background-image:url(../img/jacob-dyer-6zktlBOdVBI-unsplash.jpg);
+}
+.pic4{background-image: url(../img/jeremy-bishop-Wfg5PDfPWBQ-unsplash.jpg);}
+.pic5{background-image: url(../img/lerone-pieters-pJHu-dGaw4o-unsplash.jpg);}
